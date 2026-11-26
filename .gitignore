@@ -1,0 +1,10 @@
+.venv/
+.uv-cache/
+__pycache__/
+*.pyc
+Embeddings/
+Results/
+dataset/
+tmp/
+models/pretrained/
+.ssh/
